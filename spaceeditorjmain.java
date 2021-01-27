@@ -24,7 +24,7 @@ public class TextEditor extends JFrame implements ActionListener{
 
  TextEditor(){
   this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-  this.setTitle("SpaceEditor.JAVA 0.2");
+  this.setTitle("SpaceEditor.JAVA 1.0");
   this.setSize(500, 500);
   this.setLayout(new FlowLayout());
   this.setLocationRelativeTo(null);
